@@ -5,7 +5,7 @@
 
 2. In Linux and MacOS, you need to run `chmod +x batect` to add exectution permerssion.
 
-3. run can run `./batect --list-tasks` to see what tasks we have.
+3. Run `./batect --list-tasks` to see what tasks we have.
 
 ## Run Go HelloWorld through batect command
 
